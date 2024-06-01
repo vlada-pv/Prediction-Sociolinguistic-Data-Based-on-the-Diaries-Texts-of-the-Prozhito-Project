@@ -1,2 +1,2 @@
 # Prediction-Sociolinguistic-Data-Based-on-the-Diaries-Texts-of-the-Prozhito-Project
-The repository contains notebooks created for collecting and preprocessing the corpus of diary entries and for experiments on creating models for predicting gender, age groups of authors and the time period of text creation.
+The repository contains notebooks created for collecting and preprocessing the corpus of diary entries and for experiments on creating models for predicting gender, age groups of authors and the time period of text creation. The work was carried out within the framework of a master's thesis on the topic "**Automatic identification of sociolinguistic data based on the texts of diaries of the "Prozhito" project**".
